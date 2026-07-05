@@ -24,9 +24,9 @@ Bogotá, Colombia
 
 ## Sobre mí
 
-Ingeniero de Software Full-Stack con más de 4 años de experiencia construyendo y desplegando aplicaciones de alto impacto en producción. Especializado en **backend con NestJS** y **arquitecturas de microservicios** con mensajería asíncrona (Kafka, RabbitMQ, Redis), y en **frontend con React.js y Next.js**.
+Ingeniero de Software Full-Stack con más de 4 años de experiencia diseñando, construyendo y desplegando aplicaciones de alto impacto en producción. En backend me especializo en NestJS y arquitecturas de microservicios con mensajería asíncrona y desacoplamiento de servicios mediante Kafka, RabbitMQ y Redis, priorizando escalabilidad, tolerancia a fallos y observabilidad. En frontend desarrollo interfaces modernas y de alto rendimiento con React.js y Next.js (SSR/SSG), enfocadas en experiencia de usuario y renderizado optimizado.
 
-Experiencia comprobada en ERP, e-commerce, dashboards analíticos y plataformas SaaS. Actualmente trabajo en la **integración segura de clientes con plataformas de pagos inmediatos (Bre-B)** mediante intercambio de certificados (mTLS). Aplico SOLID, Clean Code y patrones de diseño para entregar soluciones escalables, seguras y mantenibles.
+Cuento con experiencia comprobada en ERP, e-commerce, plataformas SaaS y dashboards analíticos para visualización de datos en tiempo real, reportería y toma de decisiones. En el área de pagos, integro pasarelas como Stripe (checkout, suscripciones, webhooks) y trabajo actualmente en la integración segura con plataformas de pagos inmediatos (Bre-B) mediante intercambio de certificados y autenticación mutua (mTLS). Aplico SOLID, Clean Code y patrones de diseño para entregar soluciones escalables, seguras y mantenibles.
 
 <br/>
 
