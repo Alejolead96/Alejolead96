@@ -1,34 +1,87 @@
-# Hola, soy Alejandro Agudelo 👋
+<div align="center">
 
----
+# Alejandro Agudelo
 
-### 👤 Acerca de Mí
+**Full Stack Software Engineer**
 
-* 📍 **Ubicación**: Colombia 🇨🇴
-* 📧 **Correo Electrónico**: alejandroagudelo96@outlook.com
-* 📚 **Estudios**: Ingeniería de Software (Estudiante)
-* 🎓 **Educación Continua**: Me sigo educando con Platzi 💚
+Backend con NestJS · Arquitecturas de microservicios · React.js / Next.js
 
-Soy un **desarrollador de software** con enfoque en tecnologías **frontend y backend**. Actualmente, complemento mi formación en Ingeniería de Sistemas con estudios en Ingeniería de Software. Mi pasión es crear soluciones tecnológicas eficientes y escalables. Me quiero enfocar como **científico de datos**, combinando mis habilidades de programación con análisis de datos para obtener **insights valiosos**.
+Bogotá, Colombia
 
----
+<a href="https://www.linkedin.com/in/alejandro-agudelo-68015820b/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:baacalejandro96@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/TU-USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-### 🌐 Lenguajes
+</div>
 
-* <kbd>🐍 PYTHON</kbd> <kbd>☕ JAVA</kbd> <kbd>🟢 Node.js</kbd> <kbd>🗄️ SQL</kbd> <kbd>🎨 HTML5</kbd> <kbd>🖌️ CSS3</kbd> <kbd>📜 JavaScript</kbd> <kbd>📘 TypeScript</kbd>
+<br/>
 
----
+## Sobre mí
 
-### 🛠️ Herramientas y Frameworks
+Ingeniero de Software Full-Stack con más de 4 años de experiencia construyendo y desplegando aplicaciones de alto impacto en producción. Especializado en **backend con NestJS** y **arquitecturas de microservicios** con mensajería asíncrona (Kafka, RabbitMQ, Redis), y en **frontend con React.js y Next.js**.
 
-* <kbd>⚛️ React.js</kbd> <kbd>▲ Next.js</kbd> <kbd>🅰️ Angular</kbd> <kbd>🐈 Nest.js</kbd> <kbd>🐙 Git</kbd> <kbd>⚡ FastAPI</kbd> <kbd>💨 Tailwind CSS</kbd>
+Experiencia comprobada en ERP, e-commerce, dashboards analíticos y plataformas SaaS. Actualmente trabajo en la **integración segura de clientes con plataformas de pagos inmediatos (Bre-B)** mediante intercambio de certificados (mTLS). Aplico SOLID, Clean Code y patrones de diseño para entregar soluciones escalables, seguras y mantenibles.
 
----
+<br/>
 
-### 🔗 Conectemos en LinkedIn
+## Stack Tecnológico
 
-Siempre estoy abierto a oportunidades de networking y profesionales. No dudes en contactarme:
+**Lenguajes**
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-agudelo-68015820b/)
+<img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" alt="Lenguajes"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,django,fastapi&theme=dark" alt="Backend"/>
+
+**Mensajería & Datos**
+
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,postgres,mongodb,prisma,sequelize&theme=dark" alt="Datos"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,gcp&theme=dark" alt="Cloud"/>
+
+**Testing & Control**
+
+<img src="https://skillicons.dev/icons?i=jest,git,github&theme=dark" alt="Testing"/>
+
+<br/>
+
+## Arquitectura & Buenas Prácticas
+
+`SOLID` · `Clean Code` · `Event-Driven` · `Saga` · `API Gateway` · `Database per Service` · `Microservicios` · `mTLS` · `SPF / DKIM / DMARC`
+
+<br/>
 
 
+## Educación & Certificaciones
+
+- **Ingeniería de Software** — Universidad Uniminuto *(en curso)*
+- **Ingeniería de Sistemas** — Politécnico Grancolombiano
+- Desarrollo Web Moderno — React.js, NestJS, TypeScript
+- Backend con NestJS · Frontend Avanzado con React.js
+- Contenerización y Despliegue con Docker
+- Ciencia de Datos y Matemáticas Aplicadas
+
+<br/>
+
+## Idiomas
+
+Español (Nativo) · Inglés (Intermedio)
+
+<br/>
+
+<div align="center">
+  <sub>Abierto a oportunidades de colaboración y networking profesional.</sub>
+</div>
